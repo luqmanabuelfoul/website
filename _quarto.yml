@@ -8,15 +8,17 @@ website:
     left:
       - href: index.qmd
         text: "Home"
-      - href: about.qmd
-        text: "About"
+      - href: research.qmd
+        text: "Research"
+      - href: teaching.qmd
+        text: "Teaching"
       - href: cv.qmd
         text: "CV"
 
 format:
   html:
     theme:
-      - cosmo
+      - sandstone
       - brand
     css: styles.css
     toc: true

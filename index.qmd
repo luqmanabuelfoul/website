@@ -1,11 +1,24 @@
 ---
-title: "Website"
+title: "About Me"
+image: profile.png
+about:
+  template: trestles
+  image-shape: round
+  links: 
+    - text: "![](bluesky.svg)"
+      href: https://bsky.app/profile/luqmanabuelfoul.bsky.social
+    - icon: twitter
+      href: https://x.com/LuqmanAbuElFoul
+    - icon: linkedin
+      href: www.linkedin.com/in/luqman-abu-el-foul-7723841a3
+    - icon: envelope-at-fill
+      href: mailto:l.abu-el-foul@lse.ac.uk
 ---
 
-This is a Quarto website.
+I am a PhD Candidate in the Department of Government at the LSE. I am supervised by [Professor Steffen Hertog](https://www.lse.ac.uk/government/people/academic-staff/steffen-hertog) and [Dr Omar McDoom](https://www.lse.ac.uk/government/people/academic-staff/omar-mcdoom).
 
-To learn more about Quarto websites visit <https://quarto.org/docs/websites>.
+My research broadly focuses on political violence and contentious politics, seeking to examine what factors structure mobilisation. My PhD thesis delves into this topic by examining how inter-ethnic contact affects mobilisation patterns
 
-```{r}
-1 + 1
-```
+Outside of my PhD research, I am interested in contention more broadly, as well as how political contention interacts with and is shaped by culture, for which I have published research in the *Journal of Palestine Studies*.
+
+Prior to my PhD, I completed an MPhil in Modern Middle Eastern Studies from the University of Oxford. I also hold a BA in History from the University of Warwick.
