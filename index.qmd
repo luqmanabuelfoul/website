@@ -10,7 +10,7 @@ about:
     - icon: twitter
       href: https://x.com/LuqmanAbuElFoul
     - icon: linkedin
-      href: www.linkedin.com/in/luqman-abu-el-foul-7723841a3
+      href: https://www.linkedin.com/in/luqman-abu-el-foul-7723841a3/
     - icon: envelope-at-fill
       href: mailto:l.abu-el-foul@lse.ac.uk
 ---
