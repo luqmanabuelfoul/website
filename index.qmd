@@ -11,6 +11,8 @@ about:
       href: https://x.com/LuqmanAbuElFoul
     - icon: linkedin
       href: https://www.linkedin.com/in/luqman-abu-el-foul-7723841a3/
+    - icon: globe
+      href: https://www.lse.ac.uk/government/people/research-students/luqman-abu-el-foul
     - icon: envelope-at-fill
       href: mailto:l.abu-el-foul@lse.ac.uk
 ---
