@@ -26,7 +26,7 @@ title: "Research"
 
 ## Other Projects
 
-- The effect of exposure to protests on 
+- The effect of exposure to protests on local political attitudes
 <details>
   <summary><em>Summary</em></summary>
   <p><em>An empirical exploration of the causal effects of exposure to pro-Palestine protests in the UK on the political behaviour of bystanders and onlookers.</em></p>
