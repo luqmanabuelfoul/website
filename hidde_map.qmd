@@ -1,8 +1,0 @@
----
-title: "Protest Locations Map"
----
-
-```{r}
-#| echo: false
-htmltools::includeHTML("choropleth_bes.html")
-```
