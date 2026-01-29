@@ -1,6 +1,6 @@
 ---
 title: "About Me"
-image: profile.png
+image: profile copy.png
 about:
   template: trestles
   image-shape: round
