@@ -7,8 +7,6 @@ about:
   links: 
     - text: "![](bluesky.svg)"
       href: https://bsky.app/profile/luqmanabuelfoul.bsky.social
-    - icon: twitter
-      href: https://x.com/LuqmanAbuElFoul
     - icon: linkedin
       href: https://www.linkedin.com/in/luqman-abu-el-foul-7723841a3/
     - icon: globe
