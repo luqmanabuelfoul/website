@@ -28,6 +28,13 @@ title: "Research"
 
 -   Conflict and Conciliation: Elite Mobilisation and Competition in Mandate Palestine (1918-1930)
 
+    <details>
+    
+    <summary><em>Abstract</em></summary>
+    <p><em>Why do some elites mobilise and participate in national politics while others do not? Extant literature on political elites has largely analysed them as independent variables in relation to outcomes of interest, noting the importance of elite coordination and alliances in the success of revolts and revolutions, their function in military coups, and their role in positions of opposition as co-optable figures. This paper seeks to invert this epistemic trend by considering elites, specifically elite mobilisation, as the outcome variable of interest. Leveraging the case study of Palestine under the British Mandate, a period underscored by the political dominance of a group of aristocratic families, this paper utilises inductive process tracing to theorise why it was that only two Jerusalemite elite families, the Husaynis and the Nashashibis, mobilised and partook in national politics during this period.</em></p>
+
+    </details>
+
 -   The variable effects of repression on mobilisation in Mandatory Palestine
 
 ## Other Projects
