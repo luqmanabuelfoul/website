@@ -22,15 +22,16 @@ title: "Research"
 
     <summary><em>Abstract</em></summary>
 
-    <p><em>How does local exposure between two ethnic groups in conflict affect contentious activity at the local level? Prevailing studies of contentious politics and social movements have highlighted the role of expanded political opportunity structures and network effects as important determinants for the onset of contentious activity. This paper extends such analysis by focusing on the understudied role of ethnic tension and exposure in driving contentious activity. Leveraging a novel event dataset of contentious activity during the 1936-1939 Arab Revolt in Palestine, this paper uses a two-stage least squares (2SLS) model with a shift-share instrument to examine how local exposure between two ethnic groups in conflict influences the rate and intensity of contentious activity at the local level. I find that local inter-ethnic exposure is associated with an increase in Palestinian contentious activity, and that this effect is principally driven by a mechanism of resentment – rather than opportunity cost or appropriation. This suggests that Palestinian exposure to Jewish communities may have intensified the destructive and punitive dimensions of Palestinian mobilisation.</em></p>
+    <p><em>How does local exposure between two ethnic groups in conflict affect contentious activity at the local level? Prevailing studies of contentious politics and social movements have highlighted the role of expanded political opportunity structures and network effects as important determinants for the onset of contentious activity. This paper extends such analysis by focusing on the understudied role of ethnic tension and exposure in driving contentious activity. Leveraging a novel event dataset of contentious activity during the 1936-1939 Arab Revolt in Palestine, this paper uses a shift-share instrument to examine how local exposure between two ethnic groups in conflict influences the rate and intensity of contentious activity at the local level. I find that local inter-ethnic exposure is associated with an increase in Palestinian contentious activity, and that this effect is principally driven by a mechanism of resentment – rather than opportunity cost or appropriation. This suggests that Palestinian exposure to Jewish communities may have intensified the destructive and punitive dimensions of Palestinian mobilisation.</em></p>
 
     </details>
 
 -   Conflict and Conciliation: Elite Mobilisation and Competition in Mandate Palestine (1918-1930)
 
     <details>
-    
+
     <summary><em>Abstract</em></summary>
+
     <p><em>Why do some elites mobilise and participate in national politics while others do not? Extant literature on political elites has largely analysed them as independent variables in relation to outcomes of interest, noting the importance of elite coordination and alliances in the success of revolts and revolutions, their function in military coups, and their role in positions of opposition as co-optable figures. This paper seeks to invert this epistemic trend by considering elites, specifically elite mobilisation, as the outcome variable of interest. Leveraging the case study of Palestine under the British Mandate, a period underscored by the political dominance of a group of aristocratic families, this paper utilises inductive process tracing to theorise why it was that only two Jerusalemite elite families, the Husaynis and the Nashashibis, mobilised and partook in national politics during this period.</em></p>
 
     </details>
