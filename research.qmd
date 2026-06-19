@@ -16,7 +16,7 @@ title: "Research"
 
 ## Work in Progress
 
-- Neighbours and Enemies: Inter-Ethnic Exposure and Mobilisation in Mandate Palestine
+- Neighbours and Enemies: Inter-Ethnic Exposure and Mobilisation in Mandate Palestine - <a href="slides/EPSS_Presentation.html" target="_blank">EPSS slides</a>
 
   <details>
 

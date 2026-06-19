@@ -6,8 +6,8 @@ title: "Teaching"
 
 A broad introduction to comparative politics covering:
 
--   Social and Political Revolutions
--   Natural Resources and Rentier States
--   Political and Bureaucratic Corruption
--   Political Economy of Distribution
--   Political Ideologies
+- Social and Political Revolutions
+- Natural Resources and Rentier States
+- Political and Bureaucratic Corruption
+- Political Economy of Distribution
+- Political Ideologies
