@@ -44,7 +44,6 @@ resources:
 
 ## Work in Progress
 
-- The variable effects of repression on mobilisation in Mandatory Palestine
 
 - The effect of exposure to protests on local political attitudes
 
@@ -55,3 +54,5 @@ resources:
   <p><em>An empirical exploration of the causal effects of exposure to pro-Palestine protests in the UK on the political behaviour of bystanders and onlookers.</em></p>
 
   </details>
+  
+  - The variable effects of repression on mobilisation in Mandatory Palestine
