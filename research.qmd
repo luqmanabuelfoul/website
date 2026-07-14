@@ -1,5 +1,7 @@
 ---
 title: "Research"
+resources:
+  - papers/
 ---
 
 ## Publications
@@ -14,9 +16,11 @@ title: "Research"
 
   </details>
 
-## Work in Progress
+## Working Papers
 
-- Neighbours and Enemies: Inter-Ethnic Exposure and Mobilisation in Mandate Palestine - <a href="slides/EPSS_Presentation.html" target="_blank">EPSS slides</a>
+- Neighbours and Enemies: Inter-Ethnic Exposure and Mobilisation in Mandate Palestine
+[Draft](papers/Paper1_Working_Paper.pdf){.btn .btn-outline-primary .btn-sm target="_blank" role="button"}
+[EPSS Slides](slides/EPSS_Presentation.html){.btn .btn-outline-primary .btn-sm target="_blank" role="button"}
 
   <details>
 
@@ -26,7 +30,7 @@ title: "Research"
 
   </details>
 
-- Conflict and Conciliation: Elite Mobilisation and Competition in Mandate Palestine (1918-1930)
+- Conflict and Conciliation: Elite Mobilisation and Competition in Mandate Palestine (1918-1930) [Draft](papers/Paper2_Working_Paper.pdf){.btn .btn-outline-primary .btn-sm target="_blank" role="button"}
 
   <details>
 
@@ -36,9 +40,11 @@ title: "Research"
 
   </details>
 
-- The variable effects of repression on mobilisation in Mandatory Palestine
 
-## Other Projects
+
+## Work in Progress
+
+- The variable effects of repression on mobilisation in Mandatory Palestine
 
 - The effect of exposure to protests on local political attitudes
 
