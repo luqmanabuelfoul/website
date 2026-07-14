@@ -55,4 +55,4 @@ resources:
 
   </details>
   
-  - The variable effects of repression on mobilisation in Mandatory Palestine
+ - The variable effects of repression on mobilisation in Mandatory Palestine
