@@ -21,6 +21,7 @@ resources:
 - Neighbours and Enemies: Inter-Ethnic Exposure and Mobilisation in Mandate Palestine
 [Draft](papers/Paper1_Working_Paper.pdf){.btn .btn-outline-primary .btn-sm target="_blank" role="button"}
 [EPSS Slides](slides/EPSS_Presentation.html){.btn .btn-outline-primary .btn-sm target="_blank" role="button"}
+[APSA Slides](slides/APSA_Presentation.html){.btn .btn-outline-primary .btn-sm target="_blank" role="button}
 
   <details>
 
