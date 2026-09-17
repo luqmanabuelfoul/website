@@ -88,7 +88,7 @@ Houghton Street – WC2A 2AE – London – United Kingdom \\[4pt]
 \vspace{-6pt}
 
 \cventry{BA History}{2018\,--\,2021}{University of Warwick \\
-\textit{Distinction}}
+\textit{First Class Honours}}
 
 ## Publications
 
@@ -136,7 +136,7 @@ GV248 – Power and Politics in the Modern World}
 \noindent
 
 \begin{itemize}
-  \item \presentation{American Political Science Association (APSA) (scheduled)}{2026}
+  \item \presentation{American Political Science Association (APSA)}{2026}
   \item \presentation{European Political Science Society (EPSS)}{2026}
   \item \presentation{LSE Political Science and Political Economy (PSPE WiP)}{2026}
   \item \presentation{LSE Contentious Politics Seminar}{2026}
@@ -166,8 +166,8 @@ GV248 – Power and Politics in the Modern World}
 \vspace{-8pt}
 
 \begin{itemize}
-  \item \presentation{LSE Data Science Institute}{2026}
-  \item \presentation{LSE Middle East Centre}{2026}
+  \item \presentation{LSE Data Science Institute}{2026\,--\,2027}
+  \item \presentation{LSE Middle East Centre}{2026\,--\,2027}
 \end{itemize}
 
 \vspace{-16pt}
