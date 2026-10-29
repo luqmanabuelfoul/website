@@ -1,0 +1,97 @@
+---
+title: "Political Science Goes to War: Assessing Two Decades of Research on Iraq and Afghanistan"
+subtitle: "Discussant Comments"
+format:
+  revealjs:
+    theme: simple
+    css: custom.css
+    logo: lse_logo.svg
+    slide-number: true
+    progress: true
+    transition: fade
+    width: 1600
+    height: 900
+    fig-align: center
+    embed-resources: true
+editor: visual
+---
+
+## What is the paper trying to do?
+
+<br>
+
+::: {.callout-note title="**What did we learn about these conflicts?**" icon="false"}
+- What are the scope conditions?
+- Where do Iraq and Afghanistan sit in the universe of cases?
+:::
+
+<br>
+
+::: {.callout-note title="**What kind of theoretical and empirical world emerges from this literature?**" icon="false"}
+- The paper describes the literature but not the world it depicts
+- How does the corpus differ in comparison to what "actually" happened?
+:::
+
+<br>
+
+::: {.callout-note title="**Was the work useful to policy makers?**" icon="false"}
+- Policy reports and briefings
+- Journal publication dates ≠ when research reached policymakers
+:::
+
+## Research Design
+
+<br>
+
+::: {.callout-note title="**Descriptive claim**: quantitative research on Iraq and Afghanistan focuses on micro-level phenomena and rarely observes the internal workings of insurgents or governing elites" icon="false"}
+- How much of this results from selection process?
+
+- Excluding qualitative work and books makes insurgents and elites look invisible
+
+- Excluding cross-national studies makes the literature look more micro
+
+  - Over-sampling from Q1 journals may compound this
+:::
+
+::: {.callout-note title="**Comparative claim**: these quantitative studies failed to accurately capture the complexity and fluidity within these cases (in comparison to qualitative work)" icon="false"}
+- Largely untested
+:::
+
+::: {.callout-important title="Suggestion" icon="false"}
+- Collect a similar dataset of qualitative studies of Iraq and Afghanistan over the same period and compare findings
+:::
+
+## Time and Context
+
+<br>
+
+::: {.callout-note title="Heterogeneity across time and cases" icon="false"}
+- Each conflict lasts for almost two decades and goes through different phases
+
+  - E.g. American occupation and Sunni insurgency (2003-2011) vs anti-ISIS air campaign (2014-2017)
+
+- Are Afghanistan and Iraq different in important ways?
+
+  - E.g. Sectarian cleavage in Iraq
+
+- Might the mixed and uncertain findings across the literature result from heterogeneity across phases and cases?
+:::
+
+<br>
+
+::: {.callout-important title="Suggestion" icon="false"}
+- Disaggregate papers by the period they study
+- Compare findings between Iraq and Afghanistan
+:::
+
+## Using the Dataset
+
+<br>
+
+::: {.callout-important title="Suggestions" icon="false"}
+- Code for funding source, institutional affiliation, data source, early vs late papers
+
+- Consider weighting by citations to capture influence of a paper
+
+- More descriptives and exploration of the data
+:::
