@@ -46,7 +46,7 @@ editor: visual
 ::: {.callout-note title="**Descriptive claim**: quantitative research on Iraq and Afghanistan focuses on micro-level phenomena and rarely observes the internal workings of insurgents or governing elites" icon="false"}
 - How much of this results from selection process?
 
-- Excluding qualitative work and books makes insurgents and elites look invisible
+- Excluding qualitative work makes insurgents and elites look invisible
 
 - Excluding cross-national studies makes the literature look more micro
 
