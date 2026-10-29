@@ -50,7 +50,7 @@ editor: visual
 
 - Excluding cross-national studies makes the literature look more micro
 
-  - Over-sampling from Q1 journals may compound this
+  - Preponderance of Q1 journals may compound this
 :::
 
 ::: {.callout-note title="**Comparative claim**: these quantitative studies failed to accurately capture the complexity and fluidity within these cases (in comparison to qualitative work)" icon="false"}
